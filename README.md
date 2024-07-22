@@ -31,13 +31,13 @@ but i also like
 </div>
 </div>
 <div id="gisfgsfs" align="center">
-  rock lee, sabaku no gaara, uchiha itachi, yamato, namikaze minato, kabuto, temari, mitsuki. joe tazuna, sara cgidouin, midori, kai satou. keebo, kaede akamatsu, ibuki mioda, gundham tanaka, kiyotaka ishimaru. kanon matsubara, rokka asahi, kasumi toyama. haruno kochi, tsugino haru. shizuku hinomori, minori hanasato. papyrus, mettaton, jevil, spamton. akshan, nami, neeko, lukai hwei, khada jhin, samira, nilah, miss fortune, viego(IM SORRY), milio, sylas, camille, braum, rakan and xayah. bonnie, glamrock bonnie, glamrock freddy, mangle, funtimr foxy, funtime freddy, helpi. lefty. oz vessalius, gilbert nightray, vincent nightray, leo, xerxes break, cheshyr. 
+  rock lee, sabaku no gaara, uchiha itachi, yamato, namikaze minato, yakushi kabuto, temari, mitsuki. joe tazuna, sara chidouin, midori, kai satou. keebo, kaede akamatsu, ibuki mioda, gundham tanaka, kiyotaka ishimaru. kanon matsubara, rokka asahi, kasumi toyama. haruno kochi, tsugino haru. shizuku hinomori, minori hanasato. papyrus, mettaton, jevil, spamton. akshan, nami, neeko, lukai hwei, khada jhin, samira, nilah, miss fortune, viego(IM SORRY), milio, sylas, camille, braum, rakan and xayah. bonnie, glamrock bonnie, glamrock freddy, mangle, funtime foxy, funtime freddy, helpi. lefty. oz vessalius, gilbert nightray, vincent nightray, leo, xerxes break, cheshyr. 
   <div id="gisfsgsfs" align="center">
    . .。♡.🧷˚. highest kinns!!
 </div>
   </div>
   <div id="gisdsffs" align="center">
-Sayori(DDLC); Zeri, Gwen, Neeko, Milio(LoL); Maeno Aki(ZENO); Iruka Umino, Naruto Uzumaki(NARUTO); Oz Vessalius(Pandora Hearts); Minori Hanasato(PJSekai); Kasumi Toyama(Bandori GBP); Ibuki Mioda(DRGD; Little Missfortune(LM); Agape(SHTDN); Warren Graham(Lis); Lancer, Temmie(Deltarune, Undertale). Kissy Missy/hj. <3 
+Sayori(DDLC); Zeri, Gwen, Neeko, Milio(LoL); Maeno Aki(ZENO); Iruka Umino, Naruto Uzumaki(NARUTO); Oz Vessalius(Pandora Hearts); Minori Hanasato(PJSekai); Kasumi Toyama(Bandori GBP); Ibuki Mioda(DRGD); Little Missfortune(LM); Agape(SHTDN); Warren Graham(Lis); Lancer, Temmie(Deltarune, Undertale). Kissy Missy/hj. <3 
 </div>
   <div id="gifs" align="center">
   <img src="https://media1.tenor.com/m/JUUbWGzszucAAAAC/rock-lee-thumbs-up.gif" width="300"/>
