@@ -7,18 +7,15 @@
  <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/PDVJjnUZqIJ0I/giphy.gif?cid=ecf05e4741j6iv1ant5gr70f3xmkeh6sw7t2eiq1q17pjp88&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" height="100"/>
  <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/PDVJjnUZqIJ0I/giphy.gif?cid=ecf05e4741j6iv1ant5gr70f3xmkeh6sw7t2eiq1q17pjp88&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" height="100"/>
  <img alt="pansexual" src="https://media.giphy.com/media/PDVJjnUZqIJ0I/giphy.gif?cid=ecf05e4741j6iv1ant5gr70f3xmkeh6sw7t2eiq1q17pjp88&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" height="100"/>
-</picture>
-</picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmwwaXFkeDEybnhlbXBuNzljMzM0dXYxMXJuN2Eydzh3Z3YwOXFydyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pQcmDMICZNyfSjpVqr/giphy.gif" width="100" height="100"/>
+</picture></picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmwwaXFkeDEybnhlbXBuNzljMzM0dXYxMXJuN2Eydzh3Z3YwOXFydyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pQcmDMICZNyfSjpVqr/giphy.gif" width="200" height="100"/>
  <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmwwaXFkeDEybnhlbXBuNzljMzM0dXYxMXJuN2Eydzh3Z3YwOXFydyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pQcmDMICZNyfSjpVqr/giphy.gif" width="100" height="100"/>
- <img alt="ummajsndjaskm" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmwwaXFkeDEybnhlbXBuNzljMzM0dXYxMXJuN2Eydzh3Z3YwOXFydyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pQcmDMICZNyfSjpVqr/giphy.gif" width="50" height="50"/>
-</picture>
-</picture>
+ <img alt="ummajsndjaskm" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmwwaXFkeDEybnhlbXBuNzljMzM0dXYxMXJuN2Eydzh3Z3YwOXFydyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pQcmDMICZNyfSjpVqr/giphy.gif" width="100" height="100"/>
+</picture></picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGg5YjZ1MTB2cXNwaGU2emZzcnp3OGI2MzE5M2cxa2doZWdqbm45ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11oDKZzPaNl2mY/giphy.gif" width="100" height="100"/>
  <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGg5YjZ1MTB2cXNwaGU2emZzcnp3OGI2MzE5M2cxa2doZWdqbm45ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11oDKZzPaNl2mY/giphy.gif" width="100" height="100"/>
  <img alt="ummkm" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGg5YjZ1MTB2cXNwaGU2emZzcnp3OGI2MzE5M2cxa2doZWdqbm45ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11oDKZzPaNl2mY/giphy.gif"width="100" height="100"/>
-</picture>
-</picture>
+</picture></picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2pnMXhka2RiamdheGdpMjMwajJwbWc3cHlrajFyZnB4dHR2YnNweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1wqYonEBtues7jlngs/giphy.gif" width="100" height="100">
  <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2pnMXhka2RiamdheGdpMjMwajJwbWc3cHlrajFyZnB4dHR2YnNweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1wqYonEBtues7jlngs/giphy.gif" width="100" height="100">
  <img alt="usdfkm" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2pnMXhka2RiamdheGdpMjMwajJwbWc3cHlrajFyZnB4dHR2YnNweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1wqYonEBtues7jlngs/giphy.gif" width="100" height="100">
