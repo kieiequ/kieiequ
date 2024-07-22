@@ -19,7 +19,28 @@
 but i also like
 </div>
 <div id="gifs" align="center">
-  Madoka Magica, YTTD, FNaF(all games), Dark Deception, Danganronpa(almost all games & anime), Durarara, PJSekai, Pandora Hearts, SHTDN, Gravity Falls, Little Missfortune, Sally Face, Fren Bow, Undertale & Deltarune(+aus), MLP, omori, until dawn, chainsaw man.
+  Madoka Magica, YTTD, FNaF(all games), Dark Deception, Danganronpa(almost all games & anime), Durarara, PJSekai, Pandora Hearts, SHTDN, Gravity Falls, Little Missfortune, Sally Face, Fren Bow, Undertale & Deltarune(+aus), MLP, omori, until dawn, chainsaw man, TJOC, DDLC, Life is strange.
+</div>
+  </div>
+  <div id="gissffs" align="center">
+    <img src="https://media1.tenor.com/m/AfJPT-V1kXAAAAAC/danganronpa-gundham-tanaka.gif" width="300">
+</div>
+  </div>
+  <div id="gisfs" align="center">
+   ┊⋆｡🚸˚. ੈ fav char:
+</div>
+</div>
+<div id="gisfgsfs" align="center">
+  rock lee, sabaku no gaara, uchiha itachi, yamato, namikaze minato, kabuto, temari, mitsuki. joe tazuna, sara cgidouin, midori, kai satou. keebo, kaede akamatsu, ibuki mioda, gundham tanaka, kiyotaka ishimaru. kanon matsubara, rokka asahi, kasumi toyama. haruno kochi, tsugino haru. shizuku hinomori, minori hanasato. papyrus, mettaton, jevil, spamton. akshan, nami, neeko, lukai hwei, khada jhin, samira, nilah, miss fortune, viego(IM SORRY), milio, sylas, camille, braum, rakan and xayah. bonnie, glamrock bonnie, glamrock freddy, mangle, funtimr foxy, funtime freddy, helpi. lefty. oz vessalius, gilbert nightray, vincent nightray, leo, xerxes break, cheshyr. 
+  <div id="gisfsgsfs" align="center">
+   . .。♡.🧷˚. highest kinns!!
+</div>
+  </div>
+  <div id="gisdsffs" align="center">
+Sayori(DDLC); Zeri, Gwen, Neeko, Milio(LoL); Maeno Aki(ZENO); Iruka Umino, Naruto Uzumaki(NARUTO); Oz Vessalius(Pandora Hearts); Minori Hanasato(PJSekai); Kasumi Toyama(Bandori GBP); Ibuki Mioda(DRGD; Little Missfortune(LM); Agape(SHTDN); Warren Graham(Lis); Lancer, Temmie(Deltarune, Undertale). Kissy Missy/hj. <3 
+</div>
+  <div id="gifs" align="center">
+  <img src="https://media1.tenor.com/m/JUUbWGzszucAAAAC/rock-lee-thumbs-up.gif" width="300"/>
 </div>
 <div id="gisfs">
 <img src="https://media.giphy.com/media/4CBslISgrY6vm/giphy.gif?cid=790b7611fl0iqdx12nxempn79c334uv11rn7a2w8wgv09qrw&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
@@ -68,4 +89,4 @@ but i also like
 <img src="https://media1.tenor.com/m/pyVtHuUuCNUAAAAC/briar-lol-briar.gif" width="160"/>
 <img src="https://media1.tenor.com/m/NH4s_qks1woAAAAd/yttd-your-turn-to-die.gif" width="150"/>
 </div>
-
+💟^_^ alinaa ilove u sm tee hee u mean everything to me.*★,°*:.☆(￣▽￣)/$:*.°★* 。
