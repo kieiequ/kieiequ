@@ -9,9 +9,9 @@
  <img alt="ummajsndjaskm" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmwwaXFkeDEybnhlbXBuNzljMzM0dXYxMXJuN2Eydzh3Z3YwOXFydyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pQcmDMICZNyfSjpVqr/giphy.gif">
 </picture>
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="">
- <source media="(prefers-color-scheme: light)" srcset="">
- <img alt="dsfs" src="">
+ <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/3Ty16ntei3lSUqGFBx/giphy.gif?cid=790b76119tp5gimlxq441su4zy8i7oj38nhq5vpukq6yhp8n&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+ <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/3Ty16ntei3lSUqGFBx/giphy.gif?cid=790b76119tp5gimlxq441su4zy8i7oj38nhq5vpukq6yhp8n&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+ <img alt="dsfs" src="https://media.giphy.com/media/3Ty16ntei3lSUqGFBx/giphy.gif?cid=790b76119tp5gimlxq441su4zy8i7oj38nhq5vpukq6yhp8n&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/TleRuyuLGvYpD6N7W5/giphy.gif?cid=790b7611vn1dh5mc5b4upx013fx93ttca3w3rqvenack67z7&ep=v1_gifs_search&rid=giphy.gif&ct=g ">
  <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/TleRuyuLGvYpD6N7W5/giphy.gif?cid=790b7611vn1dh5mc5b4upx013fx93ttca3w3rqvenack67z7&ep=v1_gifs_search&rid=giphy.gif&ct=g ">
@@ -54,7 +54,7 @@
 </picture>
 
 
-https://media.giphy.com/media/3Ty16ntei3lSUqGFBx/giphy.gif?cid=790b76119tp5gimlxq441su4zy8i7oj38nhq5vpukq6yhp8n&ep=v1_gifs_search&rid=giphy.gif&ct=g
+
 https://media.giphy.com/media/4CBslISgrY6vm/giphy.gif?cid=790b7611fl0iqdx12nxempn79c334uv11rn7a2w8wgv09qrw&ep=v1_gifs_search&rid=giphy.gif&ct=g
 https://media1.tenor.com/m/w7YZO3UXq88AAAAC/naruto-narutorocklee.gif
 https://media.giphy.com/media/zMkV2BzP9osjBburSE/giphy.gif?cid=790b7611fl0iqdx12nxempn79c334uv11rn7a2w8wgv09qrw&ep=v1_gifs_search&rid=giphy.gif&ct=g
