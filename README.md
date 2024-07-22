@@ -1,53 +1,71 @@
-<div id="header" align="center">
+<div id="gifs" align="center">
   <img src="https://media.giphy.com/media/TleRuyuLGvYpD6N7W5/giphy.gif?cid=790b7611vn1dh5mc5b4upx013fx93ttca3w3rqvenack67z7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
+  <img src="https://media.giphy.com/media/QAvd4MXxoRXtpwZpeZ/giphy.gif?cid=ecf05e47bzrdrkckj1frvh4cj20ybamsgqhm0um4q6j7cc4x&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
+  <img src="https://media1.tenor.com/m/j1KNT_W_zxMAAAAC/agender-pride.gif" width="300"/>
+  <img src="https://media1.tenor.com/m/N3ZRCb8PKhgAAAAC/lgbtq-lgbt.gif" width="300"/>
 </div>
-</picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/TleRuyuLGvYpD6N7W5/giphy.gif?cid=790b7611vn1dh5mc5b4upx013fx93ttca3w3rqvenack67z7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250" height="90"/>
- <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/TleRuyuLGvYpD6N7W5/giphy.gif?cid=790b7611vn1dh5mc5b4upx013fx93ttca3w3rqvenack67z7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250" height="90"/>
- <img alt="pan" src="https://media.giphy.com/media/TleRuyuLGvYpD6N7W5/giphy.gif?cid=790b7611vn1dh5mc5b4upx013fx93ttca3w3rqvenack67z7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250" height="90"/>
-</picture>
-</picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/PDVJjnUZqIJ0I/giphy.gif?cid=ecf05e4741j6iv1ant5gr70f3xmkeh6sw7t2eiq1q17pjp88&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" height="100"/>
- <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/PDVJjnUZqIJ0I/giphy.gif?cid=ecf05e4741j6iv1ant5gr70f3xmkeh6sw7t2eiq1q17pjp88&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" height="100"/>
- <img alt="pansexual" src="https://media.giphy.com/media/PDVJjnUZqIJ0I/giphy.gif?cid=ecf05e4741j6iv1ant5gr70f3xmkeh6sw7t2eiq1q17pjp88&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" height="100"/>
-</picture></picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmwwaXFkeDEybnhlbXBuNzljMzM0dXYxMXJuN2Eydzh3Z3YwOXFydyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pQcmDMICZNyfSjpVqr/giphy.gif" width="200" height="100"/>
- <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmwwaXFkeDEybnhlbXBuNzljMzM0dXYxMXJuN2Eydzh3Z3YwOXFydyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pQcmDMICZNyfSjpVqr/giphy.gif" width="100" height="100"/>
- <img alt="ummajsndjaskm" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmwwaXFkeDEybnhlbXBuNzljMzM0dXYxMXJuN2Eydzh3Z3YwOXFydyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pQcmDMICZNyfSjpVqr/giphy.gif" width="100" height="100"/>
-</picture></picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGg5YjZ1MTB2cXNwaGU2emZzcnp3OGI2MzE5M2cxa2doZWdqbm45ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11oDKZzPaNl2mY/giphy.gif" width="120" height="100"/>
- <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGg5YjZ1MTB2cXNwaGU2emZzcnp3OGI2MzE5M2cxa2doZWdqbm45ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11oDKZzPaNl2mY/giphy.gif" width="120" height="100"/>
- <img alt="ummkm" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGg5YjZ1MTB2cXNwaGU2emZzcnp3OGI2MzE5M2cxa2doZWdqbm45ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11oDKZzPaNl2mY/giphy.gif"width="120" height="100"/>
-</picture></picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2pnMXhka2RiamdheGdpMjMwajJwbWc3cHlrajFyZnB4dHR2YnNweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1wqYonEBtues7jlngs/giphy.gif" width="100" height="100">
- <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2pnMXhka2RiamdheGdpMjMwajJwbWc3cHlrajFyZnB4dHR2YnNweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1wqYonEBtues7jlngs/giphy.gif" width="100" height="100">
- <img alt="usdfkm" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2pnMXhka2RiamdheGdpMjMwajJwbWc3cHlrajFyZnB4dHR2YnNweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1wqYonEBtues7jlngs/giphy.gif" width="100" height="100">
-</picture>
-</picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/r4IIO7ILVn4zPgKLeV/giphy.gif?cid=790b7611vn1dh5mc5b4upx013fx93ttca3w3rqvenack67z7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" height="100">
- <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/r4IIO7ILVn4zPgKLeV/giphy.gif?cid=790b7611vn1dh5mc5b4upx013fx93ttca3w3rqvenack67z7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" height="100">
- <img alt="jhjaskm" src="https://media.giphy.com/media/r4IIO7ILVn4zPgKLeV/giphy.gif?cid=790b7611vn1dh5mc5b4upx013fx93ttca3w3rqvenack67z7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" height="100">
-</picture>
-</picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGU3dGUwOGFtcmxpYjJjc25mY3FjYWUzaWVtajVzOHpvanhoNW9scyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mKbl77Un4I8j6aROOT/giphy.gif" width="100" height="100">
- <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGU3dGUwOGFtcmxpYjJjc25mY3FjYWUzaWVtajVzOHpvanhoNW9scyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mKbl77Un4I8j6aROOT/giphy.gif" width="100" height="100">
- <img alt="ummajrwsfkm" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGU3dGUwOGFtcmxpYjJjc25mY3FjYWUzaWVtajVzOHpvanhoNW9scyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mKbl77Un4I8j6aROOT/giphy.gif" width="100" height="100">
-</picture>
-</picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://media1.tenor.com/m/KSLMmhC5WG4AAAAd/rock-lee-gaara.gif" width="100" height="100">
- <source media="(prefers-color-scheme: light)" srcset="https://media1.tenor.com/m/KSLMmhC5WG4AAAAd/rock-lee-gaara.gif" width="100" height="100">
- <img alt="hthedfdjaskm" src="https://media1.tenor.com/m/KSLMmhC5WG4AAAAd/rock-lee-gaara.gif" width="100" height="100">
-</picture>
 
+<div id="asfsdad" align="center">> *:.｡. .｡.:*･゜ﾟ･*☆✻･ﾟﾟ📌
+<div id="asdad" align="center">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">>>my current fixations are<<<img src="https://media.giphy.com/media/54MLmnU1QL6i4Tl68L/giphy.gif" width="50">
+</div>
+  <div id="assfdad" align="center">
+    NARUTO/NRT SHIPPUDEN<img src="https://media1.tenor.com/m/6cDDsSbg7igAAAAC/rocke-lee-vs.gif" width="40">, BanG Dream! GBP/Garupa PICO<img src="https://media1.tenor.com/m/MKNGpQt9Ld4AAAAC/matsubara-kanon-bang-dream.gif" width="40"> , League of Legends<img src="https://media1.tenor.com/m/BdiiEJb_3QYAAAAC/akshan-sex.gif" width="40">, ZENO remake (kinda???)<img src="https://media1.tenor.com/m/tbgvP5yJX6MAAAAC/maeno-aki-zeno.gif" width="40">.
+</div>
+<div id="gisfs" align="center">
+•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*
+</div>
+  <div id="gisfs" align="center">
+but i also like
+</div>
+<div id="gifs" align="center">
+  Madoka Magica, YTTD, FNaF(all games), Dark Deception, Danganronpa(almost all games & anime), Durarara, PJSekai, Pandora Hearts, SHTDN, Gravity Falls, Little Missfortune, Sally Face, Fren Bow, Undertale & Deltarune(+aus), MLP, omori, until dawn, chainsaw man.
+</div>
+<div id="gisfs">
+<img src="https://media.giphy.com/media/4CBslISgrY6vm/giphy.gif?cid=790b7611fl0iqdx12nxempn79c334uv11rn7a2w8wgv09qrw&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media1.tenor.com/m/w7YZO3UXq88AAAAC/naruto-narutorocklee.gif" width="100"/>
+   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGFlb2hzeW1qeDQ3dnBwdm9ya3V4ZzltZWhsZHk2Yms0N2xnY24zOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IL0TWAeR41BQocO0kS/100.webp" width="250"/>
+   <img src="https://media1.tenor.com/m/-MvUTm6WRFcAAAAC/maeno-aki-zeno.gif" width="70"/>
+   <img src="https://media1.tenor.com/m/hsaH0PbbMgMAAAAC/pareo-bandori.gif" width="80"/>
+  <img src="https://media.giphy.com/media/H6aMxd0H2L7tzxMd6H/giphy.gif" width="200"/>
+ <img src="https://media1.tenor.com/m/7lH-ibFf8VIAAAAC/spamton-laughter.gif" width="100"/>
+  <img src="https://media.giphy.com/media/opKJdyoEZFjG0/giphy.gif?cid=790b76118h9b6u10vqsphe6zfsrzw8b63193g1kghegjnn9r&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="70"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGg5YjZ1MTB2cXNwaGU2emZzcnp3OGI2MzE5M2cxa2doZWdqbm45ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LGobjSx3acxqg/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/IvnAB8iooqqjqYBGnv/giphy.gif" width="250"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDRldGFwajB4c3AwdHBxOWt1djQzM21sbWR3OWFvNWZ1cnVkcWlrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RGEi5hvAYAMsYuRR72/100.webp" width="250"/>
+  <img src="https://media1.tenor.com/m/lAiPa5BTMLcAAAAd/fnaf-bandori.gif" width="100"/>
+  <img src="https://media1.tenor.com/m/S82UfXeHw4MAAAAC/rock-lee-naruto.gif" width="100"/>
+    <img src="https://media1.tenor.com/m/JKWDlVn7tWMAAAAC/spamton-picmix.gif" width="100"/>
+    <img src="https://media1.tenor.com/m/AsSEMnYeveUAAAAd/cat-stray-cat.gif" width="100"/>
+    <img src="https://media1.tenor.com/m/Zk2lS-mQMi8AAAAC/rock-lee-tenten.gif" width="200"/>
+    <img src="https://media1.tenor.com/m/r-J9vWWQejQAAAAd/spam-ton.gif" width="100"/>
+    <img src="https://media1.tenor.com/m/8-l9d1VmH0kAAAAC/monaka-towa-danganronpa.gif" width="100"/>
+    <img src="https://media1.tenor.com/m/_fsSH1OIunwAAAAC/goodbye-chat-jevil.gif" width="250"/>
+    <img src="https://media1.tenor.com/m/rhoaCelVxagAAAAC/lulu-league-of-legends.gif" width="150"/>
+    <img src="https://media1.tenor.com/m/pPxWnk_LY7YAAAAC/tsugino-haru-zeno.gif" width="100"/>
+    <img src="https://media.giphy.com/media/m0vTeiBkF2YJQYaNxD/giphy.gif" width="100"/>
+    <img src="https://media1.tenor.com/m/FJc93sjuppEAAAAC/yourarchivist-orange-cat.gif" width="100"/>
+    <img src="https://media.giphy.com/media/hjhtM4qDFTOGXh285p/giphy.gif" width="200"/>
+    <img src="https://media1.tenor.com/m/PFtreCD0_xYAAAAd/bandori-danganronpa.gif" width="150"/>
+    <img src="https://media1.tenor.com/m/FpPB5_I5P7sAAAAC/chaos-jevil.gif" width="100"/>
+    <img src="https://media1.tenor.com/m/V1UQU61NhRAAAAAC/danganronpa-kokichi.gif" width="200"/>
+    <img src="https://media1.tenor.com/m/_f9WpEJVC30AAAAC/bisexual-lgbtq.gif" width="140"/>
+    <img src="https://media1.tenor.com/m/GfNveluRo90AAAAC/roze-solinyamp.gif" width="160"/>
+    <img src="https://media1.tenor.com/m/DPewWML3bq8AAAAC/challenge-accepted-smash.gif" width="350"/>
+   <img src="https://media1.tenor.com/m/d34Qo5jgT9MAAAAd/league-of-legends-meme.gif" width="150"/>
+   <img src="https://media1.tenor.com/m/500AXigvl7oAAAAC/bang-dream-bandori.gif" width="200"/>
+   <img src="https://media1.tenor.com/m/q8ZhZrzUDVQAAAAd/ko%C4%8Dka.gif" width="100"/>
+   <img src="https://media1.tenor.com/m/saFUlP6N6-MAAAAC/maenoaki-chingaloid.gif" width="200"/>
+   <img src="https://media.giphy.com/media/sKfDLVlof7vfZB0SBF/giphy.gif" width="200"/>
+   <img src="https://media1.tenor.com/m/Ry4od8mk7ywAAAAd/naruto-naruto-shippuden.gif" width="200"/>
+   <img src="https://media1.tenor.com/m/FYwLeRtzCOAAAAAC/tsugino-haru.gif" width="100"/>
+  <img src="https://media.tenor.com/5dY_rHQCCysAAAAi/jevil-cant-do-anything.gif" width="100"/>
+   <img src="https://media1.tenor.com/m/-30mkA6HSQ8AAAAC/yttd-joe-mama.gif" width="150"/>
+<img src="https://media1.tenor.com/m/vJGVLjxD9cgAAAAC/himikoyumeno-danganronpa.gif" width="150"/>
+<img src="https://media.tenor.com/8eVWjHu651AAAAAi/keebo-k1b0.gif" width="150"/>
+<img src="https://media1.tenor.com/m/f9louCBcqJ0AAAAC/naruhina-naruto-x-hinata.gif" width="150"/>
+<img src="https://media1.tenor.com/m/Wgk0qxuUyNEAAAAC/good-night-goodnight.gif" width="200"/>
+<img src="https://media1.tenor.com/m/pyVtHuUuCNUAAAAC/briar-lol-briar.gif" width="160"/>
+<img src="https://media1.tenor.com/m/NH4s_qks1woAAAAd/yttd-your-turn-to-die.gif" width="150"/>
+</div>
 
-
-https://media.giphy.com/media/4CBslISgrY6vm/giphy.gif?cid=790b7611fl0iqdx12nxempn79c334uv11rn7a2w8wgv09qrw&ep=v1_gifs_search&rid=giphy.gif&ct=g
-https://media1.tenor.com/m/w7YZO3UXq88AAAAC/naruto-narutorocklee.gif
-https://media.giphy.com/media/zMkV2BzP9osjBburSE/giphy.gif?cid=790b7611fl0iqdx12nxempn79c334uv11rn7a2w8wgv09qrw&ep=v1_gifs_search&rid=giphy.gif&ct=g
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGU3dGUwOGFtcmxpYjJjc25mY3FjYWUzaWVtajVzOHpvanhoNW9scyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2BPJ9kXJZmp2RrXEYH/giphy.gif
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGg5YjZ1MTB2cXNwaGU2emZzcnp3OGI2MzE5M2cxa2doZWdqbm45ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LGobjSx3acxqg/giphy.gif
-https://media.giphy.com/media/opKJdyoEZFjG0/giphy.gif?cid=790b76118h9b6u10vqsphe6zfsrzw8b63193g1kghegjnn9r&ep=v1_gifs_search&rid=giphy.gif&ct=g
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnN5bzR0dDQ1ajVpOWxtODdveTJ0aWF2d21rcmdvbGQ1ejd5czFuNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/e5cCY6PzoTWantjpuD/giphy.gif
-https://media.giphy.com/media/KFmZ9L2Gs9BlKLCpPC/giphy.gif?cid=790b7611vsyo4tt45j5i9lm87oy2tiavwmkrgold5z7ys1n5&ep=v1_stickers_search&rid=giphy.gif&ct=s
-
-https://media.giphy.com/media/QAvd4MXxoRXtpwZpeZ/giphy.gif?cid=ecf05e47jl3zwl6iwl0k1vuxtan24ensjdqf1xt071412z2u&ep=v1_gifs_search&rid=giphy.gif&ct=g
