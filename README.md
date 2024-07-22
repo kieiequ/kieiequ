@@ -10,7 +10,7 @@
 </picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/TleRuyuLGvYpD6N7W5/giphy.gif?cid=790b7611vn1dh5mc5b4upx013fx93ttca3w3rqvenack67z7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50" height="50"/>
  <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/TleRuyuLGvYpD6N7W5/giphy.gif?cid=790b7611vn1dh5mc5b4upx013fx93ttca3w3rqvenack67z7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50" height="50"/>
- <img alt="umdm" src="https://media.giphy.com/media/TleRuyuLGvYpD6N7W5/giphy.gif?cid=790b7611vn1dh5mc5b4upx013fx93ttca3w3rqvenack67z7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50" height="50"/>
+ <img alt="pan" src="https://media.giphy.com/media/TleRuyuLGvYpD6N7W5/giphy.gif?cid=790b7611vn1dh5mc5b4upx013fx93ttca3w3rqvenack67z7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50" height="50"/>
 </picture>
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGg5YjZ1MTB2cXNwaGU2emZzcnp3OGI2MzE5M2cxa2doZWdqbm45ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11oDKZzPaNl2mY/giphy.gif" width="50" height="50"/>
