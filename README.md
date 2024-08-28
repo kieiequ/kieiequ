@@ -12,6 +12,9 @@
   <div id="assfdad" align="center">
     NARUTO/NRT SHIPPUDEN<img src="https://media1.tenor.com/m/6cDDsSbg7igAAAAC/rocke-lee-vs.gif" width="40">, BanG Dream! GBP/Garupa PICO<img src="https://media1.tenor.com/m/MKNGpQt9Ld4AAAAC/matsubara-kanon-bang-dream.gif" width="40"> , League of Legends<img src="https://media1.tenor.com/m/BdiiEJb_3QYAAAAC/akshan-sex.gif" width="40">, ZENO remake (kinda???)<img src="https://media1.tenor.com/m/tbgvP5yJX6MAAAAC/maeno-aki-zeno.gif" width="40">.
 </div>
+  <div id="assfdad" align="center">
+  🚸 if u r interested in any of those fandoms feel free to int !
+    </div>
 <div id="gisfs" align="center">
 •*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*
 </div>
@@ -31,7 +34,7 @@ but i also like
 </div>
 </div>
 <div id="gisfgsfs" align="center">
-  rock lee, sabaku no gaara, uchiha itachi, yamato, namikaze minato, yakushi kabuto, temari, mitsuki. joe tazuna, sara chidouin, midori, kai satou. keebo, kaede akamatsu, ibuki mioda, gundham tanaka, kiyotaka ishimaru. kanon matsubara, rokka asahi, kasumi toyama. haruno kochi, tsugino haru. shizuku hinomori, minori hanasato. papyrus, mettaton, jevil, spamton. akshan, nami, neeko, lukai hwei, khada jhin, samira, nilah, miss fortune, viego(IM SORRY), milio, sylas, camille, braum, rakan and xayah. bonnie, glamrock bonnie, glamrock freddy, mangle, funtime foxy, funtime freddy, helpi. lefty. oz vessalius, gilbert nightray, vincent nightray, leo, xerxes break, cheshyr. 
+  rock lee, sabaku no gaara, uchiha itachi, yamato, namikaze minato, yakushi kabuto, temari, mitsuki, hashirama senju, uchiha madara, uchiha obito, senju tobirama, zetsu, umino iruka. joe tazuna, sara chidouin, midori, kai satou. keebo, kaede akamatsu, ibuki mioda, gundham tanaka, kiyotaka ishimaru. kanon matsubara, rokka asahi, kasumi toyama. haruno kochi, tsugino haru. shizuku hinomori, minori hanasato. papyrus, mettaton, jevil, spamton. akshan, nami, neeko, lukai hwei, khada jhin, samira, nilah, miss fortune, viego(IM SORRY), milio, sylas, camille, braum, rakan and xayah. bonnie, glamrock bonnie, glamrock freddy, mangle, funtime foxy, funtime freddy, helpi. lefty. oz vessalius, gilbert nightray, vincent nightray, leo, xerxes break, cheshyr. 
   <div id="gisfsgsfs" align="center">
    . .。♡.🧷˚. highest kinns!!
 </div>
