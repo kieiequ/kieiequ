@@ -22,7 +22,7 @@
 but i also like
 </div>
 <div id="gifs" align="center">
-  Madoka Magica, YTTD, FNaF(all games), Dark Deception, Danganronpa(almost all games & anime), Durarara, PJSekai, Pandora Hearts, SHTDN, Gravity Falls, Little Missfortune, Sally Face, Fren Bow, Undertale & Deltarune(+aus), MLP, omori, until dawn, chainsaw man, TJOC, DDLC, Life is strange.
+  Madoka Magica, YTTD, FNaF(all games), Dark Deception, Danganronpa(almost all games & anime), Durarara, PJSekai, Pandora Hearts, SHTDN, Gravity Falls, Little Missfortune, Sally Face, Fran Bow, Undertale & Deltarune(+aus), MLP, omori, until dawn, chainsaw man, TJOC, DDLC, Life is strange, the quarry.
 </div>
   </div>
   <div id="gissffs" align="center">
@@ -34,7 +34,7 @@ but i also like
 </div>
 </div>
 <div id="gisfgsfs" align="center">
-  rock lee, sabaku no gaara, uchiha itachi, yamato, namikaze minato, yakushi kabuto, temari, mitsuki, hashirama senju, uchiha madara, uchiha obito, senju tobirama, zetsu, umino iruka. joe tazuna, sara chidouin, midori, kai satou. keebo, kaede akamatsu, ibuki mioda, gundham tanaka, kiyotaka ishimaru. kanon matsubara, rokka asahi, kasumi toyama. haruno kochi, tsugino haru. shizuku hinomori, minori hanasato. papyrus, mettaton, jevil, spamton. akshan, nami, neeko, lukai hwei, khada jhin, samira, nilah, miss fortune, viego(IM SORRY), milio, sylas, camille, braum, rakan and xayah. bonnie, glamrock bonnie, glamrock freddy, mangle, funtime foxy, funtime freddy, helpi. lefty. oz vessalius, gilbert nightray, vincent nightray, leo, xerxes break, cheshyr. 
+  rock lee, sabaku no gaara, uchiha itachi, uchiha shisui, yamato, namikaze minato, yakushi kabuto, temari, mitsuki, hashirama senju, uchiha madara, uchiha obito, senju tobirama, zetsu, umino iruka, ootsotsuki indra, ootsotsuki ashira, hozuki suigetsu, jugo, metal lee, kimimaro kaguya. joe tazuna, sara chidouin, midori, kai satou. keebo, kaede akamatsu, ibuki mioda, gundham tanaka, kiyotaka ishimaru. kanon matsubara, rokka asahi, kasumi toyama. haruno kochi, tsugino haru. shizuku hinomori, minori hanasato. papyrus, mettaton, jevil, spamton. akshan, nami, neeko, lukai hwei, khada jhin, samira, nilah, miss fortune, viego(IM SORRY), milio, sylas, camille, braum, rakan and xayah. bonnie, glamrock bonnie, glamrock freddy, mangle, funtime foxy, funtime freddy, helpi. lefty. oz vessalius, gilbert nightray, vincent nightray, leo, xerxes break, cheshyr. 
   <div id="gisfsgsfs" align="center">
    . .。♡.🧷˚. highest kinns!!
 </div>
