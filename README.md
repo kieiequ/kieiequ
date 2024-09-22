@@ -40,7 +40,7 @@ but i also like
 </div>
   </div>
   <div id="gisdsffs" align="center">
-Sayori(DDLC); Zeri, Gwen, Neeko, Milio(LoL); Maeno Aki(ZENO); Iruka Umino, Naruto Uzumaki(NARUTO); Oz Vessalius(Pandora Hearts); Minori Hanasato(PJSekai); Kasumi Toyama(Bandori GBP); Ibuki Mioda(DRGD); Little Missfortune(LM); Agape(SHTDN); Warren Graham(Lis); Lancer, Temmie(Deltarune, Undertale). Kissy Missy/hj. <3 
+Sayori(DDLC); Zeri, Gwen, Neeko, Milio(LoL); Maeno Aki(ZENO); Iruka Umino, Naruto Uzumaki, Uchiha Shisui(NARUTO); Oz Vessalius(Pandora Hearts); Minori Hanasato(PJSekai); Kasumi Toyama(Bandori GBP); Ibuki Mioda(DRGD); Little Missfortune(LM); Agape(SHTDN); Warren Graham(Lis); Lancer, Temmie(Deltarune, Undertale). Kissy Missy/hj. <3 
 </div>
   <div id="gifs" align="center">
   <img src="https://media1.tenor.com/m/JUUbWGzszucAAAAC/rock-lee-thumbs-up.gif" width="300"/>
