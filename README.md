@@ -11,7 +11,7 @@
   <img align="left" src="https://media1.tenor.com/m/N3ZRCb8PKhgAAAAC/lgbtq-lgbt.gif" width="300"/>
 
 
-<img align="center" alt="Coding" width="260" src="https://media.tenor.com/HvhDUVEICesAAAAi/white-star.gif">[eng pronouns page](https://en.pronouns.page/@kiqu) || [ua pronouns page](https://ua.pronouns.page/@kiqu) <img align="center" alt="Coding" width="260" src="https://media.tenor.com/HvhDUVEICesAAAAi/white-star.gif">
+<img align="center" alt="Coding" width="270" src="https://media.tenor.com/HvhDUVEICesAAAAi/white-star.gif">[eng pronouns page](https://en.pronouns.page/@kiqu) || [ua pronouns page](https://ua.pronouns.page/@kiqu) <img align="center" alt="Coding" width="270" src="https://media.tenor.com/HvhDUVEICesAAAAi/white-star.gif">
  <div id="gisfgsfs" align="center">
 
   -----------------------------------------------
