@@ -22,7 +22,7 @@
   <img src="https://media.tenor.com/08VGcHIcmW4AAAAi/coquette-aesthetic.gif" width="400"><img src="https://media.tenor.com/08VGcHIcmW4AAAAi/coquette-aesthetic.gif" width="400">
 
   
-madoka. <img src="https://media.tenor.com/wnVuzMq9fYsAAAAi/love-heart.gif" width="25">chihaya anon, toyama kasumi. uzumaki naruto, uchiha shisui. sayori. neeko, gwen. maeno aki, agape, tsutsuji.<img src="https://media.tenor.com/xxkk4dDfv2MAAAAi/bow.gif" width="25"> tazuna joe. oz vessalius. warren graham.
+madoka. <img src="https://media.tenor.com/wnVuzMq9fYsAAAAi/love-heart.gif" width="25">chihaya anon, toyama kasumi. uzumaki naruto, uchiha shisui. tenna. sayori. neeko, gwen. maeno aki, agape, tsutsuji.<img src="https://media.tenor.com/xxkk4dDfv2MAAAAi/bow.gif" width="25"> tazuna joe. oz vessalius. warren graham.
 
 <div id="gisssssfs" align="center">
 <img src="https://media.tenor.com/T_HNpfTJvNkAAAAj/coquette-aesthetic.gif">
@@ -35,7 +35,7 @@ madoka. <img src="https://media.tenor.com/wnVuzMq9fYsAAAAi/love-heart.gif" width
 <img src="https://media.tenor.com/WigQi5R16JAAAAAi/cute-pink-bow-divider.gif" width=" 600"><img src="https://media.tenor.com/WigQi5R16JAAAAAi/cute-pink-bow-divider.gif" width=" 600">
 
 
-  <img src="https://media.tenor.com/gamD63HDjVwAAAAi/cat-rotate.gif">avemu/bandori/mygo. yttd. zeno remake. ghost six. league of legends(ARCANE FANS DNI hj). shtdn. kinda fnaf and naruto.<img src="https://media.tenor.com/C_7oqtyT0ukAAAAi/blush-flushed.gif" width="20">
+  <img src="https://media.tenor.com/gamD63HDjVwAAAAi/cat-rotate.gif">avemu/bandori/mygo. yttd. deltarune. zeno remake. ghost six. league of legends(ARCANE FANS DNI hj). shtdn. kinda fnaf and naruto.<img src="https://media.tenor.com/C_7oqtyT0ukAAAAi/blush-flushed.gif" width="20">
 
  <img src="https://media.tenor.com/1xrRFgQ65U8AAAAi/divider.gif" width="360"><img src="https://media.tenor.com/1xrRFgQ65U8AAAAi/divider.gif" width="360">
 
