@@ -22,7 +22,7 @@
   <img src="https://media.tenor.com/08VGcHIcmW4AAAAi/coquette-aesthetic.gif" width="400"><img src="https://media.tenor.com/08VGcHIcmW4AAAAi/coquette-aesthetic.gif" width="400">
 
   
-<img src="https://media.tenor.com/wnVuzMq9fYsAAAAi/love-heart.gif" width="25">madoka. chihaya anon, toyama kasumi. uzumaki naruto, uchiha shisui. tenna. sayori. neeko, gwen. maeno aki, agape, tsutsuji. tazuna joe.<img src="https://media.tenor.com/xxkk4dDfv2MAAAAi/bow.gif" width="25"> oz vessalius. warren graham.
+<img src="https://media.tenor.com/wnVuzMq9fYsAAAAi/love-heart.gif" width="25">madoka. chihaya anon, toyama kasumi. uzumaki naruto, uchiha shisui. tenna. sayori. neeko, gwen. maeno aki, agape, tsutsuji. tazuna joe. oz vessalius. warren graham.<img src="https://media.tenor.com/xxkk4dDfv2MAAAAi/bow.gif" width="25">
 
 <div id="gisssssfs" align="center">
 <img src="https://media.tenor.com/T_HNpfTJvNkAAAAj/coquette-aesthetic.gif">
