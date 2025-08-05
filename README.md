@@ -11,7 +11,7 @@
   <img align="left" src="https://media1.tenor.com/m/N3ZRCb8PKhgAAAAC/lgbtq-lgbt.gif" width="300"/>
 
 
-<img align="center" alt="Coding" width="270" src="https://media.tenor.com/HvhDUVEICesAAAAi/white-star.gif">[eng pronouns page](https://en.pronouns.page/@kiqu) || [ua pronouns page](https://ua.pronouns.page/@kiqu) <img align="center" alt="Coding" width="270" src="https://media.tenor.com/HvhDUVEICesAAAAi/white-star.gif">
+[eng pronouns page](https://en.pronouns.page/@kiqu) || [ua pronouns page](https://ua.pronouns.page/@kiqu) <img align="center" alt="Coding" width="270" src="https://media.tenor.com/HvhDUVEICesAAAAi/white-star.gif">
  <div id="gisfgsfs" align="center">
 
   -----------------------------------------------
@@ -19,10 +19,10 @@
   <img src="https://media.tenor.com/BKaP4maG73oAAAAj/bang-dream-bandori.gif" width="45">enfp 7w6, so/sx. /<img src="https://media.tenor.com/5DiBP6bYJJ4AAAAi/emojis-discord.gif" width="30">\ highest kinns.<img src="https://media.tenor.com/SzO00E0fig4AAAAi/look-this.gif" width="40">
 
   
-  <img src="https://media.tenor.com/08VGcHIcmW4AAAAi/coquette-aesthetic.gif" width="400"><img src="https://media.tenor.com/08VGcHIcmW4AAAAi/coquette-aesthetic.gif" width="400">
+  <img src="https://media.tenor.com/08VGcHIcmW4AAAAi/coquette-aesthetic.gif" width="400">
 
   
-<img src="https://media.tenor.com/wnVuzMq9fYsAAAAi/love-heart.gif" width="25">madoka. chihaya anon, toyama kasumi. uzumaki naruto, uchiha shisui. tenna. sayori. neeko, gwen. maeno aki, agape, tsutsuji. tazuna joe. oz vessalius. warren graham.<img src="https://media.tenor.com/xxkk4dDfv2MAAAAi/bow.gif" width="25">
+<img src="https://media.tenor.com/wnVuzMq9fYsAAAAi/love-heart.gif" width="25">shion tatsunami. madoka. chihaya anon, toyama kasumi. uzumaki naruto, uchiha shisui. tenna. sayori. neeko, gwen. maeno aki, agape, tsutsuji. tazuna joe. oz vessalius. warren graham.<img src="https://media.tenor.com/xxkk4dDfv2MAAAAi/bow.gif" width="25">
 
 <div id="gisssssfs" align="center">
 <img src="https://media.tenor.com/T_HNpfTJvNkAAAAj/coquette-aesthetic.gif">
@@ -32,12 +32,12 @@
   <div id="gafs" align="center">
 
   
-<img src="https://media.tenor.com/WigQi5R16JAAAAAi/cute-pink-bow-divider.gif" width=" 600"><img src="https://media.tenor.com/WigQi5R16JAAAAAi/cute-pink-bow-divider.gif" width=" 600">
+<img src="https://media.tenor.com/WigQi5R16JAAAAAi/cute-pink-bow-divider.gif" width=" 600">
 
 
-  <img src="https://media.tenor.com/gamD63HDjVwAAAAi/cat-rotate.gif">avemu/bandori/mygo. yttd. deltarune. zeno remake. ghost six. league of legends. shtdn. kinda fnaf and naruto.<img src="https://media.tenor.com/C_7oqtyT0ukAAAAi/blush-flushed.gif" width="20">
+  <img src="https://media.tenor.com/gamD63HDjVwAAAAi/cat-rotate.gif">avemu/bandori/mygo. saihate station. yttd. deltarune. zeno remake. ghost six. league of legends. shtdn. kinda fnaf and naruto.<img src="https://media.tenor.com/C_7oqtyT0ukAAAAi/blush-flushed.gif" width="20">
 
- <img src="https://media.tenor.com/1xrRFgQ65U8AAAAi/divider.gif" width="360"><img src="https://media.tenor.com/1xrRFgQ65U8AAAAi/divider.gif" width="360">
+ <img src="https://media.tenor.com/1xrRFgQ65U8AAAAi/divider.gif" width="360">
 
 -----------------------------------------------
  
