@@ -11,7 +11,8 @@
   <img align="left" src="https://media1.tenor.com/m/N3ZRCb8PKhgAAAAC/lgbtq-lgbt.gif" width="300"/>
 <div id="gisfgsfs" align="center">
 
-[eng pronouns page](https://en.pronouns.page/@kiqu) || [ua pronouns page](https://ua.pronouns.page/@kiqu) 
+
+
 <img align="center" alt="Coding" width="270" src="https://media.tenor.com/HvhDUVEICesAAAAi/white-star.gif">
  
 
