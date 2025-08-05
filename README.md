@@ -9,10 +9,11 @@
   <img align="center" src="https://media.giphy.com/media/TleRuyuLGvYpD6N7W5/giphy.gif?cid=790b7611vn1dh5mc5b4upx013fx93ttca3w3rqvenack67z7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
   <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDkwMHpjc3lkdDl6dm54MjhlOW1odGJ6amR5eXo0ZGJ6bnM3MWo0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QAvd4MXxoRXtpwZpeZ/giphy.gif" width="300"/>
   <img align="left" src="https://media1.tenor.com/m/N3ZRCb8PKhgAAAAC/lgbtq-lgbt.gif" width="300"/>
+<div id="gisfgsfs" align="center">
 
-
-[eng pronouns page](https://en.pronouns.page/@kiqu) || [ua pronouns page](https://ua.pronouns.page/@kiqu) <img align="center" alt="Coding" width="270" src="https://media.tenor.com/HvhDUVEICesAAAAi/white-star.gif">
- <div id="gisfgsfs" align="center">
+[eng pronouns page](https://en.pronouns.page/@kiqu) || [ua pronouns page](https://ua.pronouns.page/@kiqu) 
+<img align="center" alt="Coding" width="270" src="https://media.tenor.com/HvhDUVEICesAAAAi/white-star.gif">
+ 
 
   -----------------------------------------------
   
