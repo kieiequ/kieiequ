@@ -1,4 +1,4 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fd6gobatnc4cnvhwtcefs7avsu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=7e7d5d&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31fd6gobatnc4cnvhwtcefs7avsu&redirect=true)  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fd6gobatnc4cnvhwtcefs7avsu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=7e7d5d&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31fd6gobatnc4cnvhwtcefs7avsu&redirect=true)  
 <img align="left" alt="Coding" width="350" src="https://media1.tenor.com/m/NT4g16STtbYAAAAd/bandori-bang-dream.gif">
 
 -
