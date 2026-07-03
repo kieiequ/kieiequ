@@ -29,13 +29,11 @@
 <img src="https://media.tenor.com/5DiBP6bYJJ4AAAAi/emojis-discord.gif" width="30"> but im also very interested in: <img src="https://media.tenor.com/QANwIf2W4FAAAAAi/bang-dream-bandori.gif" width="40">
   <div id="gafs" align="center">
 
-  
-<img src="https://media.tenor.com/08VGcHIcmW4AAAAi/coquette-aesthetic.gif" width="400">
 
 
   <img src="https://static.wikia.nocookie.net/ensemble-stars/images/9/94/%28Cheval_Summer%29_Mika_Kagehira_Chibi.gif/revision/latest?cb=20210729002015" width="60"> saihate station, yttd, deltarune/undertale, zeno remake, ghost six, shtdn, league of legends, fnaf<img src="https://media.tenor.com/pj9XxNXkLcwAAAAi/arashi-narukami-arashi-enstars.gif" width="60">
   
-<img src="https://media.tenor.com/T_HNpfTJvNkAAAAj/coquette-aesthetic.gif">
+<img src="https://media.tenor.com/08VGcHIcmW4AAAAi/coquette-aesthetic.gif" width="400">
 
 
 -----------------------------------------------
