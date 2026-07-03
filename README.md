@@ -3,6 +3,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fd6gobatnc4cnvhwtcefs7avsu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=7e7d5d&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31fd6gobatnc4cnvhwtcefs7avsu&redirect=true)  
 <img width="367" alt="image" src="https://github.com/user-attachments/assets/6ad961b5-e249-4d56-b714-596db4c32323" /> <img width="367" alt="image" src="https://github.com/user-attachments/assets/eab30e1a-c7d4-4f2c-b85f-40e151b23505" />
 
+     𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼⋅˚₊‧ ଳ ‧₊˚ ⋅ kanokoko, hilson n narumika 4 life !!!
 
 
 
