@@ -51,7 +51,7 @@ shtdn, league of legends, fnaf
 
 -----------------------------------------------
  
- <img src="https://media.tenor.com/6a_wj7DJYEcAAAAi/bang-dream-anime.gif" width="30"> \\/ omg look thats me and my gf i love her so much !!!!!!!!!!!!! \\/ <img src="https://media.tenor.com/Yf0qNygeLhMAAAAi/hearts-spin.gif" width="20">
+ <img src="https://media.tenor.com/6a_wj7DJYEcAAAAi/bang-dream-anime.gif" width="30"> \\/ omg look thats me and my gf i love her so much !!! \\/ <img src="https://media.tenor.com/Er_yrlxrOIMAAAAi/minato-yukina-bang-dream.gif" width="40">
 
 
 <img src="https://media.tenor.com/be6aRzOGeloAAAAi/bandori-bang-dream.gif" width="70">
